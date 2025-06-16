@@ -1,6 +1,6 @@
 # 📊 Task-01: Population Distribution Visualization using Power BI
 
-![Bar Chart Preview](PRODIGY_DS_1/blob/main/DS_Task_1_Bargraph.png) <!-- Replace with actual image path or link -->
+![Bar Chart Preview](https://github.com/Soumyareddy-0804/PRODIGY_DS_1/blob/main/DS_Task_1_Bargraph.png) <!-- Replace with actual image path or link -->
 
 ## ✅ Task Objective
 
